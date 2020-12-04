@@ -15,3 +15,5 @@ My documentation for Python following my defined...
 * Classes
 * SQL
 * DEBUG - Error Handling
+
+<code> def funcion ():</code>
